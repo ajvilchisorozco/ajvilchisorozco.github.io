@@ -5,9 +5,9 @@ Start([Start]) --> Num[num = random number from 1 through 10]
     Guess --> Try{Did you guess right?}
     Try -->|No| Wrong[Guess < num]
     Wrong -->|Yes| Low[Too Low]
-    Low --> Guess[Try again]
+    Low --> Guess
     Wrong -->|No| High[Too High]
-    High --> Guess[Try again]
+    High --> Guess
     Try -->|Yes| Win[You're correct]
     Win --> End([End])
 ```
