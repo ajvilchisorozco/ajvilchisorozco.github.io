@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
-Start([Start]) --> Num[num = RandomNumber(1,10)]
+Start([Start]) --> Num[num = random number from 1 through 10]
     Num --> Guess[/guess = user input/]
     Guess --> Try{Did you guess right?}
     Try --> |No| Wrong[Guess < num]
