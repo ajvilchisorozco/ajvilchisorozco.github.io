@@ -15,5 +15,5 @@ Some of my favorites are:
 
 I have 6 little dogs and I have always liked coding and wanted to make my own program. I worked with GitHub a bit, but never really learned just how much I could customize!
 ## Websites I Recommend
-* [GitHub Commands](https://www.wikipedia.org/) - Wikipedia has always been a useful way to get a quick summary or explanation to things.
+* [Wikipedia](https://www.wikipedia.org/) - Wikipedia has always been a useful way to get a quick summary or explanation to things.
 * [YouTube](www.youtube.com) - This has always been a great way for me to not only find entertainment after a long day of work, or to find a tutorial or guide for something I need help on.
